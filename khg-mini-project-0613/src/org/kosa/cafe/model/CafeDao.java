@@ -4,4 +4,7 @@ public class CafeDao {
 	public void register() {
 		
 	}
+	public void find() {
+		
+	}
 }
